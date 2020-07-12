@@ -1,1 +1,7 @@
 Hello git it's me Arun karthik
+
+So I am going to write a if else syntax
+if(condition):
+	return this
+Else:
+	return this
